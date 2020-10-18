@@ -1,0 +1,1 @@
+# spring-boot-emp-service-k8s-manifests
